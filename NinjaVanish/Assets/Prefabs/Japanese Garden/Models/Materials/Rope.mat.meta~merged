@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: cd0f807ade3e2d149b98ae3a9015ccef
+=======
+<<<<<<< HEAD:NinjaVanish/Assets/PluggableAI/Scripts/ScriptableObjects/Decisions/SweepDecision.asset.meta
+guid: 3899982067a854c478995e98a6b3a6de
+=======
+guid: cd0f807ade3e2d149b98ae3a9015ccef
+>>>>>>> 32aad29a1b85b72dd0b9c627a35017186e7413ef:NinjaVanish/Assets/Prefabs/Japanese Garden/Models/Materials/Rope.mat.meta
+>>>>>>> 32aad29a1b85b72dd0b9c627a35017186e7413ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d157d1d5d58466545bf3bf85b7106245
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - neon: {fileID: 2100000, guid: e07fc4c3f6d19fc47a08610764f4b2f1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

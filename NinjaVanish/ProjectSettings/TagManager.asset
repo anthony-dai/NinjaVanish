@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - Wall
+  - Sus
+  - LightCollider
+  - Next_Level_Trigger
+  - Music
+  - Grass
+  - Rock
+  - Enemy
+  - Pillar
+  - smoketag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Obstruction
+  - Player
+  - SusColliderPlayer
+  - LightCollider
+  - MainCamera
+  - Enemy
+  - Neon Bloom
+  - 
+  - 
+  - smokeObstruction
+  - Grass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Throwables
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
